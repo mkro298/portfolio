@@ -11,7 +11,7 @@ Optimization - feature engineering, hyperparameter tuning (grid search), creatin
 Notes
 CNN-LSTM model for prediction (hybrid ML model)
     CNN for feature engineering and LSTM for stock prediction 
-Mean-Variance Optimization for portfolio optimization 
+Mean-Variance Optimization for portfolio optimization c
 
 Articles:
 chrome-extension://cefhlgghdlbobdpihfdadojifnpghbji/https://thesai.org/Downloads/Volume15No9/Paper_95-Deep_Learning_for_Stock_Price_Prediction.pdf
