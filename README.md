@@ -20,3 +20,6 @@ chrome-extension://cefhlgghdlbobdpihfdadojifnpghbji/https://dspace.mit.edu/bitst
 
 Data:
 https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.csv
+
+Model: 
+file:///Users/monishakrothapalli/Downloads/Complexity%20-%202020%20-%20Lu%20-%20A%20CNN%E2%80%90LSTM%E2%80%90Based%20Model%20to%20Forecast%20Stock%20Prices.pdf
